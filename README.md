@@ -22,6 +22,10 @@ In this repository I will collect all the electronics companies in Egypt in one 
 | 12 | <img width="100%" height="100%" src="./Images/CircuitElectronics.png"> | Circuit Electronics | Company | [Website](https://circuit-electronics.com/) | 01286772013 - 055-2364745 | Sharqia, Zagazig |
 | 13 | <img width="100%" height="100%" src="./Images/MostElectronics.webp"> | Most Electronics | Company | [Website](https://mostelectronic.com/) | 01021378051 - [Email](mailto:support@mostelectronic.com) | dar alsalam, Cairo |
 | 14 | <img width="100%" height="100%" src="./Images/micro_ohm_logo-300x75.png"> | Micro Ohm Electronics | Company | [Website](https://microohm-eg.com/) | 01030332568 - [Email](mailto:info@microohm-eg.com) | Hadaiq Al Qubbah, Cairo |
+| 15 | <img width="100%" height="100%" src="./Images/AmpereElectronics.webp"> | Ampere Electronics | Company | [Website](https://www.ampere-electronics.com/) | 055-436-8101 - [Email](info@ampere-electronics.com) | 10th of Ramadan City |
+
+
+
 # The List (Facebook Pages)
 | # | Page Name  | Link | Contact | Location |
 | :---:  | :---: | :---: | :---: | :---: |
