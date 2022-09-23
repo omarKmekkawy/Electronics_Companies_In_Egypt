@@ -18,3 +18,4 @@ In this repository I will collect all the electronics companies in Egypt in one 
 | 8 | <img width="100%" height="100%" src="./Images/FutureElectronics.avif"> | Future Electronics | Company | [Website](https://store.fut-electronics.com/) | 02-26825325 - [Email](mailto:contactus@fut-electronics.com) | Abassia, Cairo |
 | 9 | <img width="100%" height="100%" src="./Images/GrandSolutions.png"> | Grand Solutions | Company | [Website](https://www.gs.com.eg/) | 01000158080 - [Email](mailto:support@gs.com.eg) | Heliopolis, Cairo |
 | 10 | <img width="100%" height="100%" src="./Images/RSComponents.png"> | RS Component - Egypt | Company | [Website](https://eg.rsdelivers.com/) | 02-26900892 - [Email](sales@arab-engineering.com) | Heliopolis, Cairo |
+| 11 | <img width="100%" height="100%" src="./Images/uge-one-211x127.webp"> | UGE Electronics | Company | [Website](https://uge-one.com/) | 02-24190176 - [Email](mailto:sales@uge-one.com) | Shobra and Heliopolis, Cairo |
