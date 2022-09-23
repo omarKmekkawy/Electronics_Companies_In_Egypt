@@ -25,7 +25,7 @@ In this repository I will collect all the electronics companies in Egypt in one 
 | 15 | <img width="100%" height="100%" src="./Images/AmpereElectronics.webp"> | Ampere Electronics | Company | [Website](https://www.ampere-electronics.com/) | 055-436-8101 - [Email](info@ampere-electronics.com) | 10th of Ramadan City |
 | 16 | <img width="100%" height="100%" src="./Images/BaymaxElectronics.bmp"> | Baymax Electronics | Company | [Website](http://www.baymax-estore.com/) | 01029833663 - [Email](mailto:baymaxsales@gmail.com) | Dumyat, Egypt |
 | 17 | <img width="100%" height="100%" src="./Images/Electra.Group_.Logo-04.webp"> | Electra Store | Company | [Website](https://electra.store/) | 01000067986 - [Email](info@electra.store) | Alexandria |
-
+| 18 | <img width="100%" height="100%" src="./Images/Mechatronx.webp"> | Mechatronx | Company | [Website](https://mecha-tronx.com/) | 01501532050 | None |
 
 # The List (Facebook Pages)
 | # | Page Name  | Link | Contact | Location |
