@@ -21,3 +21,7 @@ In this repository I will collect all the electronics companies in Egypt in one 
 | 11 | <img width="100%" height="100%" src="./Images/uge-one-211x127.webp"> | UGE Electronics | Company | [Website](https://uge-one.com/) | 02-24190176 - [Email](mailto:sales@uge-one.com) | Shobra and Heliopolis, Cairo |
 
 # The List (Facebook Pages)
+| # | Page Name  | Link | Contact | Location |
+| :---:  | :---: | :---: | :---: | :---: |
+| 1 | Raspberry Pi Egypt | [LINK](https://www.facebook.com/rpegypt20) | 01067469212 | Alexandria |
+| 2 | ECOMP | [LINK](https://www.facebook.com/ElectronComponent) | [Email](mailto:ecompco19@gmail.com) | None |
