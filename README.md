@@ -25,3 +25,4 @@ In this repository I will collect all the electronics companies in Egypt in one 
 | :---:  | :---: | :---: | :---: | :---: |
 | 1 | Raspberry Pi Egypt | [LINK](https://www.facebook.com/rpegypt20) | 01067469212 | Alexandria |
 | 2 | ECOMP | [LINK](https://www.facebook.com/ElectronComponent) | [Email](mailto:ecompco19@gmail.com) | None |
+| 3 | Electra Store | [LINK](https://www.facebook.com/electra.electronics/) | 03-5912212 - [Email](mailto:info@electra-group.com) | Alexandria |
