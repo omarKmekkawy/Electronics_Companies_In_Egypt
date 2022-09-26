@@ -41,3 +41,6 @@ In this repository I will collect all the electronics companies in Egypt in one 
 | 1 | Raspberry Pi Egypt | [LINK](https://www.facebook.com/rpegypt20) | 01067469212 | Alexandria |
 | 2 | ECOMP | [LINK](https://www.facebook.com/ElectronComponent) | [Email](mailto:ecompco19@gmail.com) | None |
 | 3 | Stepper Motor+ بطاريه ليثيوم | [LINK](https://www.facebook.com/Stepper-Motor-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D9%87-%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85-1942207642460587/) | 01142005762 - [Email](mailto:ahmed2005762@gmail.com) | None |
+
+# Search Engine
+Search through most stores and companies website with a custom search engine [here](https://cse.google.com/cse?cx=13f166fd1e283d1b1).
