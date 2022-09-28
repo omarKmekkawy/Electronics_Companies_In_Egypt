@@ -46,7 +46,7 @@ In this repository I will collect all the electronics companies in Egypt in one 
 # Support For Graduation Projects
 - I want to thank Mostafa Abd ElGwad, he is the manager of Most Electronics. He offers giving 5% off for all students. Just take screenshot from [My Facebook Post](https://www.facebook.com/photo/?fbid=5402898863126373) and send it to them when purchasing.
 
-<img width="100%" height="100%" src="./Images/Special_Offer_MostElectronics.png">
+<img width="70%" height="100%" src="./Images/Special_Offer_MostElectronics.png">
 
 # Search Engine
 Search through most stores and companies website with a custom search engine [here](https://cse.google.com/cse?cx=13f166fd1e283d1b1).
