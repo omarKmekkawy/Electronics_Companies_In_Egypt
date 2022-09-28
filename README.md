@@ -42,5 +42,11 @@ In this repository I will collect all the electronics companies in Egypt in one 
 | 2 | ECOMP | [LINK](https://www.facebook.com/ElectronComponent) | [Email](mailto:ecompco19@gmail.com) | None |
 | 3 | Stepper Motor+ بطاريه ليثيوم | [LINK](https://www.facebook.com/Stepper-Motor-%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D9%87-%D9%84%D9%8A%D8%AB%D9%8A%D9%88%D9%85-1942207642460587/) | 01142005762 - [Email](mailto:ahmed2005762@gmail.com) | None |
 
+
+# Support For Graduation Projects
+- I want to thank Mostafa Abd ElGwad, he is the manager of Most Electronics. He offers giving 5% off for all students. Just take screenshot from [My Facebook Post](https://www.facebook.com/photo/?fbid=5402898863126373) and send it to them when purchasing.
+
+<img width="100%" height="100%" src="./Images/Special_Offer_MostElectronics.png">
+
 # Search Engine
 Search through most stores and companies website with a custom search engine [here](https://cse.google.com/cse?cx=13f166fd1e283d1b1).
