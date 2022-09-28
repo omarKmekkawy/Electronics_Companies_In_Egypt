@@ -34,6 +34,7 @@ In this repository I will collect all the electronics companies in Egypt in one 
 | 24    | <img width="100%" height="100%" src="./Images/3DSmart.jpg">                 | 3D Smart               | Company             | [Website](https://3dsmart-shop.com/)                                   | 01116240618 - [Email](sales@3dsmart-shop.com)                            | Cairo                            |
 | 25    | <img width="100%" height="100%" src="./Images/HDElectronics.webp">          | HD Electronics         | Company             | [Website](https://hdelectronicseg.com/)                                | 01229718562                                                              | 6th October                      |
 | 26    | <img width="100%" height="100%" src="./Images/Juthour.png">                 | Juthour                | Company             | [Website](https://www.juthour-tech.com/)                               | 01022807130                                                              | Giza                             |
+| 27 | <img width="100%" height="100%" src="./Images/FairStore.png"> | Fair Store | Company | [Website](https://fair-e-store.com/) | 01111376720 - 01030291428 - [Email](mailto:customer-service@fair-e-store.com) | None |
 
 # The List (Facebook Pages)
 | # | Page Name  | Link | Contact | Location |
